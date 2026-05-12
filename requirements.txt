@@ -1,0 +1,1 @@
+# Projeto estático servido via nginx — sem dependências Python
